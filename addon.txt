@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+        "name"              "TeamChatRelay"
+        "version"           "1.0"
+        "author_name"       "The Realist"
+        "author_email"      ""
+        "info"              "Relays team chat to spectating Staff members"
+        "override"          "0"
+}
